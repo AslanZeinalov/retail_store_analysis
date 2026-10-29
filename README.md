@@ -23,7 +23,7 @@
 
 ## Структура проекта
 ```text
-bike-store-analytics/
+retail_store_analysis/
 ├── README.md
 ├── research_notebook.ipynb  # Основной ноутбук с анализом
 ├── requirements.txt
@@ -34,7 +34,7 @@ bike-store-analytics/
 ## Как запустить
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/твой-username/bike-store-analytics.git
+   git clone https://github.com/AslanZeinalov/retail_store_analysis.git
    cd bike-store-analytics
    ```
 2. Установить зависимости:
